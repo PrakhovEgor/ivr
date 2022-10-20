@@ -1,3 +1,5 @@
+## VK: https://vk.com/pep8onelove
+
 ## [ НАЗВАНИЕ ПРОЕКТА ]
 "Your Time - YT"
 ## [ ПРОБЛЕМНОЕ ПОЛЕ ]
